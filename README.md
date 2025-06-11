@@ -9,6 +9,5 @@ The technologies I most commonly use are:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,linux,gcp,mysql,neovim&perline=6">
 </p>
-
 Below are some of my projects showing my representative projects!
 
